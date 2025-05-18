@@ -10,11 +10,11 @@ The dataset used for training and testing is sourced from **Kaggle**. It contain
 
 ## Technologies Used
 - **TensorFlow** / Keras
-- **Convolutional Neural Networks (CNN)**
-- **OpenCV & PIL** (For Image Processing)
+
+
 - **Matplotlib** (For Visualization)
 - **NumPy & Pandas** (For Data Handling)
-- **Flask / Streamlit** (For Deployment)
+- **Streamlit** (For Deployment)
 
 ## Installation
 
